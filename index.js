@@ -6,3 +6,6 @@ function greet(){
 }
 
 
+function newFunction(){
+  console.log("this is a new function.");
+}
