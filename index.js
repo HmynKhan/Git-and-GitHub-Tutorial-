@@ -6,6 +6,3 @@ function greet(){
 }
 
 
-function above18(){
-  console.log("your above 18.");
-}
