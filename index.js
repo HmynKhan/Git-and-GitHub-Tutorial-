@@ -9,3 +9,7 @@ function greet(){
 function newFunction(){
   console.log("this is a new function.");
 }
+
+function above18(){
+  console.log("your above 18.");
+}
