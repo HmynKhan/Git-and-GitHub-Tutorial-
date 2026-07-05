@@ -17,3 +17,11 @@ function above18(){
 function Marvel(){
   console.log("welcome to marvel cinematic universe.");
 }
+
+function SpideManBrandNewDay(){
+  console.log("welcome to spidey universe.");
+}
+
+function IronMan4(){
+  console.log("welcome to iron man universe.");
+}
