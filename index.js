@@ -25,3 +25,7 @@ function SpideManBrandNewDay(){
 function IronMan4(){
   console.log("welcome to iron man universe.");
 }
+
+function useGitGraph(){
+  console.log("welcome to git graph universe.");
+}
