@@ -13,3 +13,7 @@ function newFunction(){
 function above18(){
   console.log("your above 18.");
 }
+
+function Marvel(){
+  console.log("welcome to marvel cinematic universe.");
+}
